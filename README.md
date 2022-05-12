@@ -1,4 +1,4 @@
-# Dashactyl (Corona Theme)  - Acktar
+# Dashactyl (SPICA Theme)  - Acktar
 
 Hello dear user. Thank you for downloading **Dashactyl (SPICA Theme)**. I hope that you will like this modern and professional admin dashboard.  If you have any issues or want to request something, feel free to join my **[Discord Server](https://discord.gg/McFr2jwNSE)**. Full credits to **[BootstrapDash](https://bootstrapdash.com)** for this awesome frontend.
 
