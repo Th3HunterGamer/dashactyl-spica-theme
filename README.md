@@ -4,7 +4,8 @@ Hello dear user. Thank you for downloading **Dashactyl (SPICA Theme)**. I hope t
 
 
 # Pictures / GIFS
-soon
+![picture](https://user-images.githubusercontent.com/103925997/168148714-576c99d9-1fac-455b-b9b4-f421ca93b04f.gif)
+
 
 # Changes you need to make
 
